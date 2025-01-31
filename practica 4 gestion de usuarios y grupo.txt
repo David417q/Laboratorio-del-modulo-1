@@ -1,0 +1,16 @@
+sudo adduser david
+sudo passwd david
+
+sudo usermod -aG wheel daivd 
+
+
+
+
+sudo groupadd guest
+sudo adduser david
+
+sudo passwd 20241922
+
+
+sudo userdel -r david
+sudo groupdel guest

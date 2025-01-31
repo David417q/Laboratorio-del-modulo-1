@@ -1,0 +1,26 @@
+mkdir materia 
+
+cd materia
+
+touch estudiante.txt
+
+vi estudiante.txt
+
+
+David Cabrera
+20241922
+
+escape y :wq paraguardar 
+
+
+chmod 700 estudiante.txt
+chmod 770 estudiante.txt
+cd 
+mkdir materia2
+cd 
+cp materia/estudiate.txt materia2/
+ls para verificar 
+
+
+
+rm -r materia 
